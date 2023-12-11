@@ -1,0 +1,16 @@
+/* Your existing CSS styles from styles.css */
+
+/* Additional styles for the Contact Us page */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=fallback");
+body{
+  /* background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("../Images/bg-img1.jpg"); */
+  backdrop-filter: blur(10px);
+  background-position-x: right;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Poppins';
+}
+
+
