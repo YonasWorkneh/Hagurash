@@ -7,10 +7,11 @@ Welcome to the hagurash recipe  Website! This full-stack web application allows 
 - **Recipe Browsing**: Users can browse a wide variety of recipes, with detailed information about each dish, including ingredients, instructions, and nutritional facts.
 - **Bookmarking**: Users can bookmark their favorite recipes for easy access and reference.
 - **Recipe Rating**: Users can rate recipes on a scale of 1 to 5 stars, providing feedback and helping other users discover the best dishes.
+- - **Recipe Videos**: Users can watch instructional videos for selected recipes, guiding them through the cooking process.
 - **User Accounts**: Users can create accounts, log in, and manage their bookmarked recipes and ratings.
 - **Search and Filtering**: Users can search for recipes by name, ingredient, or category, and filter the results based on various criteria, such as cuisine, dietary restrictions, or cooking time.
 - **Recipe Creation and Editing**: Authorized users can create new recipes and edit existing ones, ensuring the website's content is up-to-date and accurate.
-- **Mobile-Friendly Design**: The website is designed to be responsive and accessible on a variety of devices, including smartphones and tablets.
+- **Pc-Friendly Design**: The website is currently designed to be optimal in pc and tablets.
 
 ## Technologies Used
 
@@ -22,7 +23,7 @@ Welcome to the hagurash recipe  Website! This full-stack web application allows 
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/recipe-website.git`
+1. Clone the repository: `git clone https://github.com/YonasWorkneh/hagurash.git`
 2. Install the required dependencies:
    - PHP
    - MySQL
