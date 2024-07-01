@@ -1,0 +1,14 @@
+{
+  "name": "hagurash__version1.0",
+  "version": "1.0.0",
+  "description": "Recipe Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hagurash"
+  ],
+  "author": "Elite Coders",
+  "license": "ISC"
+}
