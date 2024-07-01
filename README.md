@@ -1,4 +1,4 @@
-# Recipe Website
+# Hagurash Recipe Website
 
 Welcome to the hagurash recipe  Website! This full-stack web application allows users to browse, bookmark, rate, and manage a collection of delicious recipes.
 
