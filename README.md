@@ -18,7 +18,7 @@ Welcome to the hagurash recipe  Website! This full-stack web application allows 
 - **Backend**: PHP
 - **Frontend**: Vanilla JavaScript, HTML, and CSS
 - **Database**: MySQL
-- **Web Server**: Apache
+- **Web Server**: Xampp
 - **Hosting**: Netlify
 
 ## Installation and Setup
@@ -27,8 +27,9 @@ Welcome to the hagurash recipe  Website! This full-stack web application allows 
 2. Install the required dependencies:
    - PHP
    - MySQL
-   - Apache (or any other web server)
-3. Configure the database connection in the `config.php` file.
+   - Xampp(or any other web server)
+3. Make sure to run the sql file in the App/model/db/ in your MySql
+3. Configure the database connection in the `config.php` file in the App/model/php directory make sure to configure the password.
 4. Start the web server and navigate to the project directory in your web browser.
 
 ## Contributing
