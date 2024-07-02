@@ -7,7 +7,7 @@ Welcome to the hagurash recipe  Website! This full-stack web application allows 
 - **Recipe Browsing**: Users can browse a wide variety of recipes, with detailed information about each dish, including ingredients, instructions, and nutritional facts.
 - **Bookmarking**: Users can bookmark their favorite recipes for easy access and reference.
 - **Recipe Rating**: Users can rate recipes on a scale of 1 to 5 stars, providing feedback and helping other users discover the best dishes.
-- - **Recipe Videos**: Users can watch instructional videos for selected recipes, guiding them through the cooking process.
+- **Recipe Videos**: Users can watch instructional videos for selected recipes, guiding them through the cooking process.
 - **User Accounts**: Users can create accounts, log in, and manage their bookmarked recipes and ratings.
 - **Admin Control**: a special user under the email 'admin@gmail.com' and password '123456789' for the admin login page is able to view a dasboard full of information on the website about users popular recipes and has options to generate, search ,filter, sort , and export reports. 
 - **Search and Filtering**: Users can search for recipes by name, ingredient, or category, and filter the results based on various criteria, such as cuisine, dietary restrictions, or cooking time.
