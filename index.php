@@ -8,7 +8,7 @@
 </head>
 <body>
   <script>
-    window.location.assign('App/views');
+    window.location.assign('/App/views');
   </script>
 </body>
 </html>
